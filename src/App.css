@@ -1,0 +1,60 @@
+.App {
+  margin-top: 15%;
+  margin-left: 20%;
+
+  /* background-image: url('/deployement_application/src/image.jpg'); */
+
+  padding: 40px;
+
+  border: 2px rgb(172, 172, 249) solid;
+  border-radius: 20px;
+
+ 
+  height: 100px;
+  width: 50%;
+
+  background: linear-gradient(to right,rgb(230, 230, 255),rgb(255, 216, 216));
+
+  display: flex;
+
+  
+}
+
+.Container1
+{
+  
+  margin-top: -50px;
+  margin-right: 50px;
+  margin-left : -50px;
+  height : 200px;
+  width :200px;
+
+  background-color: white;
+  
+  background-image: url('./image.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:100%;
+
+  border: 2px solid rgb(255, 210, 210);
+  border-radius: 20px ;
+
+  
+  
+
+
+}
+
+
+.Container2
+{
+  text-align: center;
+  font-weight: bolder;
+  text-decoration:solid;
+  font-family: 'Times New Roman', Times, serif;
+
+  box-shadow: 20px;
+
+  justify-content: center;
+
+}
